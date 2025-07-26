@@ -126,6 +126,7 @@
     <None Include="..\.gitignore" />
     <None Include="..\leopards.yaml" />
     <None Include="..\panthers.yaml" />
+    <None Include="..\pumas.yaml" />
     <None Include="..\secrets.yaml" />
     <None Include="..\tigers.yaml" />
   </ItemGroup>
