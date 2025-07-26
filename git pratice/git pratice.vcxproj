@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <None Include="..\.gitignore" />
+    <None Include="..\jaguars.yaml" />
     <None Include="..\leopards.yaml" />
     <None Include="..\panthers.yaml" />
     <None Include="..\pumas.yaml" />
